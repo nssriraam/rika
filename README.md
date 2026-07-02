@@ -34,7 +34,11 @@
 
 ## 🎬 Meet Rika
 
-https://github.com/user-attachments/assets/2458bc04-ae9e-4d57-9fdc-507a92920cd0
+<div align="center">
+  <a href="https://youtu.be/o4J49MP0u6U">
+    <img src="https://img.youtube.com/vi/o4J49MP0u6U/maxresdefault.jpg" width="100%" alt="Meet Rika - Demo Video">
+  </a>
+</div>
 
 <br/>
 
