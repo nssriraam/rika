@@ -34,7 +34,7 @@
 
 ## 🎬 Meet Rika
 
-<video src="https://raw.githubusercontent.com/nssriraam/rika/main/assets/demo.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/d6e87d73-8053-4e0e-8a04-4e907097f73c
 
 <br/>
 
