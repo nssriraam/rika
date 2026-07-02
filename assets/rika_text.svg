@@ -1,0 +1,19 @@
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Sovereign Magenta Gradient (True Pink/Magenta, No Red) -->
+    <linearGradient id="sovereign" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C41F61"/>
+      <stop offset="100%" stop-color="#8B1646"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Main Name: Sleek, high-end software aesthetic -->
+  <text x="415" y="85" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="80" font-weight="800" letter-spacing="28" fill="url(#sovereign)" text-anchor="middle">
+    RIKA
+  </text>
+  
+  <!-- Subtitle: Clean, modern typography in dark zinc -->
+  <text x="405" y="125" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="18" fill="#D4D4D8" text-anchor="middle" font-weight="600">
+    SOVEREIGN AI
+  </text>
+</svg>
