@@ -34,7 +34,7 @@
 
 ## 🎬 Meet Rika
 
-<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/2458bc04-ae9e-4d57-9fdc-507a92920cd0
 
 <br/>
 
