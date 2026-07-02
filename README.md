@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://youtu.be/o4J49MP0u6U">
-    <img src="https://img.youtube.com/vi/o4J49MP0u6U/maxresdefault.jpg" width="100%" alt="Meet Rika - Demo Video">
+    <img src="https://img.youtube.com/vi/o4J49MP0u6U/maxresdefault.jpg?v=1" width="100%" alt="Meet Rika - Demo Video">
   </a>
 </div>
 
