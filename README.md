@@ -4,7 +4,7 @@
 
 <img src="./assets/rika_text.svg" alt="Rika Logo" width="800" />
 
-**Voice-First · Persistent Memory · Full OS Control · Cyber Operations · Self-Evolving**
+**Voice-First · Persistent Memory · Full OS Control · Cyber Operations · Extensible Tooling**
 
 <br/>
 
@@ -34,7 +34,11 @@
 
 ## 🎬 Meet Rika
 
-<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
+<div align="center">
+  <a href="https://youtu.be/o4J49MP0u6U">
+    <img src="https://img.youtube.com/vi/o4J49MP0u6U/maxresdefault.jpg?v=1" width="100%" alt="Meet Rika - Demo Video">
+  </a>
+</div>
 
 <br/>
 
@@ -371,7 +375,7 @@ The developer is not responsible for unauthorized or illegal use of these capabi
 
 <div align="center">
 
-## 👨‍💻 Built By
+## 👨💻 Built By
 
 **Sriraam**
 [github.com/nssriraam](https://github.com/nssriraam)
