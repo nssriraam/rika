@@ -34,11 +34,7 @@
 
 ## 🎬 Meet Rika
 
-<div align="center">
-  <a href="https://youtu.be/o4J49MP0u6U">
-    <img src="https://img.youtube.com/vi/o4J49MP0u6U/maxresdefault.jpg?v=1" width="100%" alt="Meet Rika - Demo Video">
-  </a>
-</div>
+<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
 
 <br/>
 
@@ -52,11 +48,11 @@ Rika is not a chatbot. She is not a wrapper around ChatGPT. She is not a browser
 
 While commercial AI agents like Codex, Claude Code, and Gemini Spark have started gaining desktop control and persistent memory, they all remain **cloud-tethered, subscription-locked, and corporately governed**. Your screen is streamed to their servers. Your data trains their models. Your access can be revoked at any time. And every one of them is wrapped in heavy safety guardrails that decide what you're allowed to do with your own machine.
 
-Rika answers to no one but you. She runs entirely on your hardware, is designed for zero operating cost, and executes with **zero censorship and absolute autonomy** — from opening applications and ghost-typing into your IDE to running offensive cybersecurity scans and briefing you every morning through natural voice conversation.
+Rika answers to no one but you. She runs entirely on your hardware, is designed for zero operating cost, and executes with **zero censorship and deep system integration** — from opening applications and ghost-typing into your IDE to running offensive cybersecurity scans and briefing you every morning through natural voice conversation.
 
 She was designed with a single philosophy: **To break AI out of the sandbox and give it the keys to the operating system.**
 
-> *"Rika combines low-latency voice presence, local OS sovereignty, self-modifying memory, agent execution, and emotional embodiment — a combination that gives her a recognizable identity instead of feeling like another AI wrapper."*  
+> *"Rika combines low-latency voice presence, local OS sovereignty, persistent memory, agent execution, and emotional embodiment — a combination that gives her a recognizable identity instead of feeling like another AI wrapper."*  
 
 <br/>
 
@@ -69,7 +65,7 @@ Rika is a voice-native AI. While she accepts text input, she is purpose-built fo
 
 - **Permanent Active Listening** — Rika automatically unlocks her ears the moment she boots up and speaks her greeting. She will actively listen for voice commands indefinitely without ever dropping to standby, maintaining near-zero CPU overhead until you speak. (Optional: Say *"Rika"* or press `F8` to manually wake her from an explicit sleep state).
 - **Sub-300ms Response Latency** — By combining Groq's LPU inference architecture with local Kokoro ONNX voice synthesis, Rika's voice-to-response pipeline operates under 300 milliseconds. She feels like a real person on the other end of a conversation — not a tool processing a request.
-- **Full-Duplex Interruption** — A dedicated audio thread runs continuously during playback, calibrating against Rika's own speaker output to establish a dynamic silence baseline. The moment human voice energy exceeds that threshold, playback stops within 10 milliseconds — mid-syllable if necessary. No awkward overlap. No waiting for her to finish.
+- **Full-Duplex Interruption** — A dedicated audio thread runs continuously during playback, calibrating against Rika's own speaker output to establish a dynamic silence baseline. The moment human voice energy exceeds that threshold, playback stops instantly — mid-syllable if necessary. No awkward overlap. No waiting for her to finish.
 - **Dynamic Listening Intelligence** — When Rika asks you a question, she automatically gives you more time to think before assuming you're done speaking. When she gives you an answer, she returns to a natural, responsive pace.
 - **Speaker Bleed Filtering** — Her Voice Activity Detection system actively calibrates against her own speaker output, preventing false triggers from her own voice coming through the microphone.
 - **Natural TTS with Emotional Range** — Rika features a dynamic, emotionally aware voice engine. She autonomously scales her physical speaking speed, volume, and sentence pacing in real-time based on her current emotional state and the context of the conversation.
@@ -79,7 +75,7 @@ Rika is a voice-native AI. While she accepts text input, she is purpose-built fo
 ### 🖥️ Absolute Operating System Control
 Rika does not just generate text for you to copy-paste. She physically operates the machine.
 
-- **3-Tier Visual Targeting System** — To click a button, read a label, or navigate any desktop application, Rika cascades through three increasingly powerful methods:
+- **Visual Targeting & Accessibility Hooks** — To click a button, read a label, or navigate any desktop application, Rika cascades through increasingly powerful methods:
   1. **Accessibility Tree Hooks (UIA)** — She programmatically interfaces with the Windows UI layer to find and manipulate elements directly.
   2. **Real-Time OCR Engine** — If the UI is opaque, she performs instant optical character recognition across the visible screen to locate text and coordinates.
   3. **Vision AI Analysis** — For complex graphical interfaces, she captures the screen and processes it through a multimodal vision model to calculate precise pixel coordinates.
@@ -133,7 +129,7 @@ Rika is equipped with a fully integrated offensive and defensive cybersecurity s
 
 ---
 
-### 🧬 Agentic Self-Evolution
+### 🧬 Extensible Tooling & Skill Ingestion
 Rika is not limited to the capabilities she was built with on day one. She is designed to grow.
 
 - **Visual Skill Acquisition** — If Rika encounters a tool she has never seen before, you can show her the documentation on your screen. Using her Vision AI, she reads the syntax, maps the command structure, and permanently writes a new integration bridge to add the tool to her skill set. No human coding required.
