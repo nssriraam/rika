@@ -375,7 +375,7 @@ The developer is not responsible for unauthorized or illegal use of these capabi
 
 <div align="center">
 
-## 👨💻 Built By
+## Built By
 
 **Sriraam**
 [github.com/nssriraam](https://github.com/nssriraam)
